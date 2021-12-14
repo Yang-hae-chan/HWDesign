@@ -1,2 +1,3 @@
 # HWDesign
-2020-1 HW Design
+2020-2 HW Design
+https://www.youtube.com/watch?v=NsCmox9hW8k
